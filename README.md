@@ -20,11 +20,11 @@ pip install tqdm
 
 ### Download prerequisite data
 
-Download prerequisite data from [here](https://drive.google.com/file/d/1qsOxa4E6SMBs_2apNzbPXOB8b2BEA3TI/view?usp=drive_link), then unzip them to `./`.
+Download prerequisite data from [here](https://drive.google.com/file/d/1qsOxa4E6SMBs_2apNzbPXOB8b2BEA3TI/view?usp=sharing), then unzip them to `./`.
 
 ## Synthesize Meshes and 2D Segment Maps
 
-The following commands discribe how to synthesize 3D meshes and render 2D segment maps. If you do not want to run these codes, you can simply download our pre-synthesized 3D meshes and 2D segment maps from [here](https://drive.google.com/file/d/1fHCbpk0e-pz2gVw_YkIGNAMkvjhp6rHN/view?usp=drive_link), and unzip the file to `./`. Then you can ignore the following commands of this section.
+The following commands discribe how to synthesize 3D meshes and render 2D segment maps. If you do not want to run these codes, you can simply download our pre-synthesized 3D meshes and 2D segment maps from [here](https://drive.google.com/file/d/1fHCbpk0e-pz2gVw_YkIGNAMkvjhp6rHN/view?usp=sharing), and unzip the file to `./`. Then you can ignore the following commands of this section.
 
 ### Synthesize human body meshes
 
